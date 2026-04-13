@@ -12,11 +12,17 @@ This project allows users to perform basic banking operations like checking bala
 ✔️ Secure Login (Account Number + PIN)
 
 ✔️ Check Account Balance
+
 ✔️ Withdraw Money
+
 ✔️ Deposit Money
+
 ✔️ Change PIN
+
 ✔️ Data stored in CSV file
+
 ✔️ Auto-save after every transaction
+
 
 ---
 
