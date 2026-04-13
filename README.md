@@ -27,12 +27,7 @@ This project allows users to perform basic banking operations like checking bala
 
 ### 💰 Transaction Menu
 
-<img width="423" height="271" alt="image" src="https://github.com/user-attachments/assets/c007868d-c7bc-42bf-990b-1e6a72ea11d0" />
-
-
-
-
-> 📸 Tip: Tum apne real screenshots add karke in links ko replace kar sakte ho.
+<img width="544" height="269" alt="image" src="https://github.com/user-attachments/assets/5dd5849d-55f2-47ba-9726-b814c9148f59" />
 
 ---
 
