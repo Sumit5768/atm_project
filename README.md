@@ -41,10 +41,9 @@ This project allows users to perform basic banking operations like checking bala
 ## 📂 Project Structure
 
 ```
-📁 ATM-System
- ├── atm2.py
- ├── atmdata.csv
- └── README.md
+📁ATM_Project/ │ ├── main.py # Entry point
+├── atm.py # Main ATM logic
+└── README.md # Documentation
 ```
 
 ---
