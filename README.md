@@ -10,6 +10,7 @@ This project allows users to perform basic banking operations like checking bala
 ## 🚀 Features
 
 ✔️ Secure Login (Account Number + PIN)
+
 ✔️ Check Account Balance
 ✔️ Withdraw Money
 ✔️ Deposit Money
