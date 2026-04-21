@@ -90,7 +90,7 @@ account,pin,balance
 
 * CSV file must be in the same directory
 * Account number & PIN should be numeric
-* Data is automatically updated after transactions
+* Data is automatically  updated after transactions
 
 ---
 
