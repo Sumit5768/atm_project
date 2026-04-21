@@ -31,7 +31,7 @@ class ATM:
         return entered_pin == self.pins[self.index]
 
     def check_balance(self):
-        print(f"Your Balance is: ₹{self.balances[self.index]}")
+        print(f"Your Balance  is: ₹{self.balances[self.index]}")
 
     def withdraw(self, amount):
         if amount <= 0:
